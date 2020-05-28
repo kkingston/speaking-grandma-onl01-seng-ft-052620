@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-if speak_to_grandma(phrase.uppercase)
+if speak_to_grandma
   return "HUH?! SPEAK UP, SONNY!"
 
   
